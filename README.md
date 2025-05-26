@@ -28,13 +28,13 @@ Installation (Terminal):
 -
 1. Clone the repository:
 
-git clone https://github.com/yasminsheikh3125/sales-analyzer-app.git
-cd sales-data-analyzer
+-git clone https://github.com/yasminsheikh3125/sales-analyzer-app.git
+-cd sales-data-analyzer
 
 2. Create and activate a virtual environment (optional but recommended):
 
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+-python -m venv venv
+-source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3. Install required packages:
 
